@@ -6,3 +6,4 @@ Yellow
 Green
 Indigo
 Violet
+Pink
